@@ -36,7 +36,6 @@ public class LC60PermutationSequence {
 		return new String(sb);
 	}
 
-
 	public static void main(String[] args) {
 		LC60PermutationSequence sol = new LC60PermutationSequence();
 		String res = sol.getPermutation(1, 2);
