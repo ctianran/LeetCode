@@ -16,6 +16,5 @@ public class LC50Pow {
 		} else {
 			return (n > 0 ? x : 1.0/x) * myPow(x * x, n / 2);
 		}
-
 	}
 }

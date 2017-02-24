@@ -5,6 +5,6 @@ package com.chentianran;
  */
 public class LC239SlidingWindowMaximum {
 	public int[] maxSlidingWindowI(int[] nums, int k) {
-
+		return nums;
 	}
 }
