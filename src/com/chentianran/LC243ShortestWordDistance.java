@@ -14,7 +14,8 @@ public class LC243ShortestWordDistance {
 		for(int i = 0; i < words.length; i++) {
 			if(words[i].equals(word1)) {
 				index1 = i;
-			} else if(words[i].equals(word2)) {
+			}
+			if(words[i].equals(word2)) {
 				index2 = i;
 			}
 
