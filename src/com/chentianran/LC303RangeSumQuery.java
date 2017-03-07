@@ -6,13 +6,14 @@ package com.chentianran;
 public class LC303RangeSumQuery {
 	public int sumRange(int[] nums, int i, int j) {
 		if(nums == null || nums.length == 0) {
-			return Integer.MIN_VALUE;
+			throw new IllegalArgumentException("invalid input");
 		}
-		int[] subSum = new int[nums.length + 1];
-		for(int k = 1; k <= nums.length; k++) {
-			subSum[k] = subSum[k - 1] + nums[k - 1];
+		int[] subSum = new int[nums.length];
+		subSum[0] = nums[0];
+		for(int k = 1; k < nums.length; k++) {
+			subSum[k] = subSum[k - 1] + nums[k];
 		}
-		return subSum[j + 1] - subSum[i];
+		return subSum[j] - subSum[i] + nums[i];
 	}
 
 	public static void main(String[] args) {
