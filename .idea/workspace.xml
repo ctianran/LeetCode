@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bca7743-009f-414b-8532-dc6beb4f1b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC113PathSumII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC114FlattenBinaryTreeToLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC117PopulatingNextRightPointersInEachNodeII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC124BinaryTreeMaximumPathSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC129SumRootToLeafNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC144BinaryTreePreorderTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC145BinaryTreePostorderTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC173BinarySearchTreeIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC199BinayTreeRightSideView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC222CountCompleteTreeNodes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC230KthSmallestElementInABST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC235LowestCommonAncestorOfABinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC236LowestCommonAncestorOfABinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC238ProductOfArrayExceptSelf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC250CountUnivalueSubtrees.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC255VerifyPreorderSequenceInBinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC308RangeSumQuery2DMutable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LeetCode/com/chentianran/LC243ShortestWordDistance.class" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/chentianran/LC243ShortestWordDistance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LeetCode/com/chentianran/LC303RangeSumQuery.class" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/chentianran/LC303RangeSumQuery.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LeetCode/com/chentianran/LC496NextGreaterElementI.class" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/chentianran/LC496NextGreaterElementI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC270ClosestBinarySearchTreeValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC437PathSumIII.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC112PathSum.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC112PathSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC293FlipGame.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC293FlipGame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC303RangeSumQuery.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC303RangeSumQuery.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC496NextGreaterElementI.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC496NextGreaterElementI.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,16 +20,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LC226InvertBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC226InvertBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LC496NextGreaterElementI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC496NextGreaterElementI.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -126,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC257BinaryTreePaths.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC257BinaryTreePaths.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC257BinaryTreePaths.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-44">
@@ -136,11 +104,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC503NextGreaterElementII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC503NextGreaterElementII.java">
+      <file leaf-file-name="LC270ClosestBinarySearchTreeValue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC270ClosestBinarySearchTreeValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+            <state relative-caret-position="406">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC437PathSumIII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC437PathSumIII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -166,8 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC210CourseScheduleII.java" />
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC25ReverseNodesInKGroup.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC133CloneGraph.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC447NumberOfBoomerangs.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC520DetectCapital.java" />
@@ -217,6 +193,8 @@
         <option value="$PROJECT_DIR$/src/com/chentianran/LC236LowestCommonAncestorOfABinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC250CountUnivalueSubtrees.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC255VerifyPreorderSequenceInBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC270ClosestBinarySearchTreeValue.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC437PathSumIII.java" />
       </list>
     </option>
   </component>
@@ -227,10 +205,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1918" />
-    <option name="y" value="31" />
+    <option name="x" value="1920" />
     <option name="width" value="1765" />
-    <option name="height" value="1050" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -784,15 +761,15 @@
       <workItem from="1487303557582" duration="48034000" />
       <workItem from="1487831414137" duration="48642000" />
       <workItem from="1488408843088" duration="1302000" />
-      <workItem from="1488493107379" duration="49201000" />
+      <workItem from="1488493107379" duration="51337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184969000" />
+    <option name="totallyTimeSpent" value="187105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1918" y="31" width="1765" height="1050" extended-state="0" />
+    <frame x="1920" y="0" width="1765" height="1087" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -804,7 +781,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3180851" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3060389" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -843,26 +820,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC246StrobogrammaticNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC247StrobogrammaticNumberII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC248StrobogrammaticNumberIII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
@@ -1290,6 +1247,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-44">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC270ClosestBinarySearchTreeValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC437PathSumIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
