@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bca7743-009f-414b-8532-dc6beb4f1b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC61RotateList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC142LinkedListCycleII.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,18 +18,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LC257BinaryTreePaths.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC257BinaryTreePaths.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LC270ClosestBinarySearchTreeValue.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC270ClosestBinarySearchTreeValue.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,11 +106,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC61RotateList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC61RotateList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC61RotateList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            <state relative-caret-position="739">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC142LinkedListCycleII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC142LinkedListCycleII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -149,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC247StrobogrammaticNumberII.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC248StrobogrammaticNumberIII.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC226InvertBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC94BinaryTreeInorderTraversal.java" />
@@ -200,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/com/chentianran/LC56MergeIntervals.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC57InsertInterval.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC61RotateList.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC142LinkedListCycleII.java" />
       </list>
     </option>
   </component>
@@ -210,8 +207,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1921" />
-    <option name="y" value="7" />
+    <option name="x" value="1931" />
+    <option name="y" value="10" />
     <option name="width" value="1389" />
     <option name="height" value="1084" />
   </component>
@@ -771,15 +768,15 @@
       <workItem from="1489000821786" duration="5229000" />
       <workItem from="1489038324972" duration="8787000" />
       <workItem from="1489136767111" duration="3400000" />
-      <workItem from="1489293002384" duration="277000" />
+      <workItem from="1489293002384" duration="1669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204798000" />
+    <option name="totallyTimeSpent" value="206190000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1921" y="7" width="1389" height="1084" extended-state="0" />
+    <frame x="1931" y="10" width="1389" height="1084" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -861,13 +858,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC101SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC102BinaryTreeLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="536">
@@ -1233,8 +1223,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC61RotateList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        <state relative-caret-position="739">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC142LinkedListCycleII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
           <folding />
         </state>
       </provider>
