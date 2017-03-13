@@ -44,3 +44,4 @@ public class LC209MinimumSizeSubArraySum {
 		return result == Integer.MAX_VALUE ? 0 : result;
 	}
 }
+
