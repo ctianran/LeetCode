@@ -7,6 +7,6 @@ import java.util.List;
  */
 public class LC218TheSkylineProblem {
 	public List<int[]> getSkyline(int[][] buildings) {
-
+			return null;
 	}
 }

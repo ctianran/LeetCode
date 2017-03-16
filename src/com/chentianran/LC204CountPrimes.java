@@ -17,4 +17,10 @@ public class LC204CountPrimes {
 		}
 		return count;
 	}
+
+	public static void main(String[] args) {
+		LC204CountPrimes sol = new LC204CountPrimes();
+		int res = sol.countPrimes(5);
+		System.out.println(res);
+	}
 }
