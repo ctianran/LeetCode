@@ -12,6 +12,22 @@ public class LC132PalindromePartitioningII {
 			return 0;
 		}
 		int[] dp = new int[s.length() + 1];
-		
+		boolean[][] isPal = new boolean[s.length() + 1][s.length() + 1];
+		for(int end = 1; end <= s.length(); end++) {
+			dp[end] = end;
+			for(int start = end; start >= 1; start--) {
+				if(s.charAt(start - 1) == s.charAt(end - 1)) {
+					if(end - start <= 1) {
+						isPal[start][end] = true;
+					} else {
+						isPal[start][end] = isPal[start + 1][end -1];
+					}
+					if(isPal[start][end]) {
+						dp[end] = Math.min(dp[end], dp[start - 1] + 1);
+					}
+				}
+			}
+		}
+		return dp[s.length()] - 1;
 	}
 }

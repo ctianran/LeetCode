@@ -52,4 +52,13 @@ public class LC387FirstUniqueCharacterInAString {
 		}
 		return result == Integer.MAX_VALUE ? -1 : result;
 	}
-}
+
+	public static void main(String[] args) {
+		String s = "abdcab";
+		LC387FirstUniqueCharacterInAString sol = new LC387FirstUniqueCharacterInAString();
+		int res = sol.firstUniqueCharI(s);
+		int res2 = sol.firstUniqueCharII(s);
+		System.out.println(res);
+		System.out.println(res2);
+	}
+ }
