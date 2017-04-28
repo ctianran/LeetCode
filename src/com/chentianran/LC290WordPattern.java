@@ -18,7 +18,7 @@ public class LC290WordPattern {
 			char c = pattern.charAt(i);
 			if(map.containsKey(c)) {
 				String value = map.get(c);
-				if(! value.equals(arr[i])) {
+				if(!value.equals(arr[i])) {
 					return false;
 				}
 			} else if (map.containsValue(arr[i])) {

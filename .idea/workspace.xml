@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bca7743-009f-414b-8532-dc6beb4f1b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC412FizzBuzz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC220ContainsDuplicateIII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC419BattleshipsInABoard.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC290WordPattern.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC290WordPattern.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,14 +34,14 @@
       <file leaf-file-name="LC290WordPattern.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC290WordPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            <state relative-caret-position="564">
+              <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC412FizzBuzz.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC412FizzBuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC412FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
@@ -47,6 +49,29 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC220ContainsDuplicateIII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC220ContainsDuplicateIII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC419BattleshipsInABoard.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC419BattleshipsInABoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -71,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC124BinaryTreeMaximumPathSum.java" />
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC129SumRootToLeafNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC144BinaryTreePreorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC145BinaryTreePostorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC173BinarySearchTreeIterator.java" />
@@ -120,8 +143,10 @@
         <option value="$PROJECT_DIR$/src/com/chentianran/LC368LargestDivisibleSubset.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC445AddTwoNumbersII.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC551StudentAttendanceRecordI.java" />
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC290WordPattern.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC412FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC290WordPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC220ContainsDuplicateIII.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC419BattleshipsInABoard.java" />
       </list>
     </option>
   </component>
@@ -697,12 +722,12 @@
       <workItem from="1489622959635" duration="10883000" />
       <workItem from="1489774740387" duration="2940000" />
       <workItem from="1489798739236" duration="13354000" />
-      <workItem from="1492674527938" duration="6885000" />
+      <workItem from="1492674527938" duration="10048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256333000" />
+    <option name="totallyTimeSpent" value="259496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -787,20 +812,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC236LowestCommonAncestorOfABinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC250CountUnivalueSubtrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC255VerifyPreorderSequenceInBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -1169,14 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC290WordPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC412FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -1184,6 +1187,33 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC290WordPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC220ContainsDuplicateIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC419BattleshipsInABoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
