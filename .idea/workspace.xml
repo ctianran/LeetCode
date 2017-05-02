@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bca7743-009f-414b-8532-dc6beb4f1b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC504BaseSeven.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,12 +63,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC504BaseSeven.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC504BaseSeven.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC504BaseSeven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="374">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC271EncodeAndDecodeStrings.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,7 +134,6 @@
         <option value="$PROJECT_DIR$/src/com/chentianran/LC204CountPrimes.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC70ClimbingStairs.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC91DecodeWays.java" />
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC5LongestPalindromicSubString.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC125ValidPalindrome.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC131PalindromePartitioning.java" />
@@ -144,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/com/chentianran/LC378KthSmallestElementInASortedMatrix.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC328OddEvenLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC504BaseSeven.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java" />
       </list>
     </option>
   </component>
@@ -719,16 +731,16 @@
       <workItem from="1489622959635" duration="10883000" />
       <workItem from="1489774740387" duration="2940000" />
       <workItem from="1489798739236" duration="13354000" />
-      <workItem from="1492674527938" duration="21099000" />
+      <workItem from="1492674527938" duration="23438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270547000" />
+    <option name="totallyTimeSpent" value="272886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2496" y="24" width="1287" height="1082" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -947,19 +959,6 @@
         <state relative-caret-position="594">
           <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="e#179#180#0" expanded="false" />
-            <element signature="e#197#198#0" expanded="false" />
-            <element signature="e#238#239#0" expanded="false" />
-            <element signature="e#256#257#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1189,9 +1188,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC504BaseSeven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="374">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
