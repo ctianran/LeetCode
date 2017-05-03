@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bca7743-009f-414b-8532-dc6beb4f1b13" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC557ReverseWordsInAStringIII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,14 +74,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC271EncodeAndDecodeStrings.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC271EncodeAndDecodeStrings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="483">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC557ReverseWordsInAStringIII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC557ReverseWordsInAStringIII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC235LowestCommonAncestorOfABinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC236LowestCommonAncestorOfABinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC250CountUnivalueSubtrees.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC255VerifyPreorderSequenceInBinarySearchTree.java" />
@@ -156,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/com/chentianran/LC328OddEvenLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC504BaseSeven.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC557ReverseWordsInAStringIII.java" />
       </list>
     </option>
   </component>
@@ -731,16 +742,16 @@
       <workItem from="1489622959635" duration="10883000" />
       <workItem from="1489774740387" duration="2940000" />
       <workItem from="1489798739236" duration="13354000" />
-      <workItem from="1492674527938" duration="23438000" />
+      <workItem from="1492674527938" duration="25171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="272886000" />
+    <option name="totallyTimeSpent" value="274619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2496" y="24" width="1287" height="1082" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -790,13 +801,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC32LongestValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/utility/Interval.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1196,11 +1200,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC271EncodeAndDecodeStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="483">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC557ReverseWordsInAStringIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
