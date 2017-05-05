@@ -5,6 +5,7 @@ package com.chentianran;
  */
 public class LC274HIndex {
 	public int hIndexI(int[] citations) {
+
 		return 0;
 	}
 }
