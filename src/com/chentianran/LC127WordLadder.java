@@ -7,6 +7,6 @@ import java.util.List;
  */
 public class LC127WordLadder {
 	public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-		
+
 	}
 }
