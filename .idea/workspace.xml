@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bca7743-009f-414b-8532-dc6beb4f1b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC421MaximumXORofTwoNumbersInAnArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC274HIndex.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC274HIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC300LongestIncreasingSubsequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC421MaximumXORofTwoNumbersInAnArray.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC421MaximumXORofTwoNumbersInAnArray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,16 +19,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LC1TwoSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC1TwoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LC328OddEvenLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC328OddEvenLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,11 +81,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC421MaximumXORofTwoNumbersInAnArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC421MaximumXORofTwoNumbersInAnArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC421MaximumXORofTwoNumbersInAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="176">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC300LongestIncreasingSubsequence.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC300LongestIncreasingSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -145,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC491IncreasingSubsequences.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC217ContainsDuplicate.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC51NQueens.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC32LongestValidParentheses.java" />
@@ -196,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/com/chentianran/LC127WordLadder.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC274HIndex.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC421MaximumXORofTwoNumbersInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC300LongestIncreasingSubsequence.java" />
       </list>
     </option>
   </component>
@@ -772,12 +771,12 @@
       <workItem from="1489774740387" duration="2940000" />
       <workItem from="1489798739236" duration="13354000" />
       <workItem from="1492674527938" duration="33332000" />
-      <workItem from="1494226774989" duration="55000" />
+      <workItem from="1494226774989" duration="1462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282835000" />
+    <option name="totallyTimeSpent" value="284242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2042" y="28" width="1301" height="1082" extended-state="0" />
@@ -831,13 +830,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC142LinkedListCycleII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC143ReorderList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -1246,8 +1238,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC421MaximumXORofTwoNumbersInAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC300LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
           <folding />
         </state>
       </provider>
