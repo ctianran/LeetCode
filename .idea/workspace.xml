@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bca7743-009f-414b-8532-dc6beb4f1b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC200NumberOfIslands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC305NumberOfIslandsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC563BinaryTreeTilt.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,9 +25,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="638">
               <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,35 +80,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC463IslandPerimeter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC463IslandPerimeter.java">
+      <file leaf-file-name="LC305NumberOfIslandsII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC305NumberOfIslandsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="198">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC200NumberOfIslands.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC200NumberOfIslands.java">
+      <file leaf-file-name="LC563BinaryTreeTilt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC563BinaryTreeTilt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+            <state relative-caret-position="638">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC521LongestUncommonSubsequenceI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC521LongestUncommonSubsequenceI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
-              <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -144,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC32LongestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC56MergeIntervals.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC57InsertInterval.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC61RotateList.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC142LinkedListCycleII.java" />
@@ -195,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/com/chentianran/LC300LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC463IslandPerimeter.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC200NumberOfIslands.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC305NumberOfIslandsII.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC563BinaryTreeTilt.java" />
       </list>
     </option>
   </component>
@@ -205,7 +191,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1559" />
+    <option name="x" value="1926" />
+    <option name="y" value="1" />
     <option name="width" value="1301" />
     <option name="height" value="1082" />
   </component>
@@ -228,7 +215,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -261,6 +247,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -771,15 +758,16 @@
       <workItem from="1489798739236" duration="13354000" />
       <workItem from="1492674527938" duration="33332000" />
       <workItem from="1494226774989" duration="4392000" />
-      <workItem from="1494538230965" duration="441000" />
+      <workItem from="1494538230965" duration="1528000" />
+      <workItem from="1494945437254" duration="151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287613000" />
+    <option name="totallyTimeSpent" value="288851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1559" y="0" width="1301" height="1082" extended-state="0" />
+    <frame x="1926" y="1" width="1301" height="1082" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -830,20 +818,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC148SortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC168ExcelSheetColumnTitle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC171ExcelSheetColumnNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1130,7 +1104,7 @@
         <state relative-caret-position="497">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1140,7 +1114,7 @@
         <state relative-caret-position="924">
           <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1173,9 +1147,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1192,17 +1164,6 @@
         <state relative-caret-position="616">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC521LongestUncommonSubsequenceI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1230,10 +1191,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC300LongestIncreasingSubsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC200NumberOfIslands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="726">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1246,10 +1207,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC200NumberOfIslands.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC521LongestUncommonSubsequenceI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="154">
+          <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+          <folding>
+            <element signature="e#163#164#0" expanded="false" />
+            <element signature="e#228#229#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC300LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC305NumberOfIslandsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC563BinaryTreeTilt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
