@@ -7,6 +7,6 @@ import com.chentianran.utility.TreeNode;
  */
 public class LC549BinaryTreeLongestConsecutiveSequenceII {
 	public int longestConsecutive(TreeNode root) {
-
+		return 0;
 	}
 }
