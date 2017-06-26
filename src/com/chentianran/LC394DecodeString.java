@@ -44,4 +44,46 @@ public class LC394DecodeString {
 		}
 		return res;
 	}
+
+	//improvement with StringBuilder
+
+	public String decodeStringII(String s) {
+		if(s == null || s.length() <= 1) {
+			return s;
+		}
+		StringBuilder cur = new StringBuilder();
+		Deque<StringBuilder> resStack = new LinkedList<>();
+		Deque<Integer> numStack = new LinkedList<>();
+		int count = 0;
+		for(char ch : s.toCharArray()) {
+			if(ch >= '0' && ch <= '9') {
+				count = count * 10 + (ch - '0');
+			} else if (ch == '[') {
+				numStack.offerFirst(count);
+				resStack.offerFirst(cur);
+				cur = new StringBuilder();
+				count = 0;
+			} else if (ch == ']') {
+				StringBuilder temp = cur;
+				cur = resStack.pollFirst();
+				int num = numStack.pollFirst();
+				for(int i = 0; i < num; i++) {
+					cur.append(temp);
+				}
+			} else {
+				cur.append(ch);
+			}
+		}
+		return cur.toString();
+	}
+
+	public static void main(String[] args) {
+		String s1 = "3[a]2[bc]";
+		String s2 = "3[a2[c]]";
+		LC394DecodeString sol = new LC394DecodeString();
+		String res1 = sol.decodeString(s1);
+		String res2 = sol.decodeStringII(s2);
+		System.out.println(res1);
+		System.out.println(res2);
+	}
 }
