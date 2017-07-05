@@ -7,6 +7,6 @@ import java.util.List;
  */
 public class LC140WordBreakII {
 	public List<String> wordBreak(String s, List<String> wordDict) {
-
+		return null;
 	}
 }
