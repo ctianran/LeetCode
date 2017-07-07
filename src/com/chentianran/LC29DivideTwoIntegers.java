@@ -4,6 +4,8 @@ package com.chentianran;
  * Created by Tianran on 2/25/2017.
  */
 public class LC29DivideTwoIntegers {
+
+	//without using  "/" "*" "+"
 	public int divide(int dividend, int divisor) {
 		if(divisor == 0) {
 			return Integer.MAX_VALUE;

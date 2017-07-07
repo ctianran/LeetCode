@@ -26,15 +26,21 @@ public class LC31NextPermutation {
 	}
 
 	private int getSmallestLarger(int[] nums, int left, int right, int target) {
-		while(left <= right) {
+		while(left < right - 1) {
 			int mid = left + (right - left) / 2;
-			if(nums[mid] <= target) {
-				right = mid - 1;
+			if (nums[mid] > target) {
+				left = mid;
 			} else {
-				left = mid + 1;
+				right = mid - 1;
 			}
 		}
-		return right;
+		if(nums[right] > target) {
+			return right;
+		}
+		if(nums[left] > target) {
+			return left;
+		}
+		return -1;
 	}
 
 	private void reverse(int[] nums, int left, int right) {
