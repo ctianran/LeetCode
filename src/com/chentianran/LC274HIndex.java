@@ -1,4 +1,7 @@
 package com.chentianran;
+
+import java.util.Arrays;
+
 /**
  * Created by Tianran on 2/23/2017.
  */
@@ -26,5 +29,25 @@ public class LC274HIndex {
 			}
 		}
 		return 0;
+	}
+
+	public int hIndex(int[] citations) {
+		if(citations == null || citations.length == 0) {
+			return 0;
+		}
+		Arrays.sort(citations);
+		int res = 0;
+		for(int i = 0; i < citations.length; i++) {
+			int smaller = Math.min(citations[i], citations.length - i);
+			res = Math.max(res, smaller);
+		}
+		return res;
+	}
+
+	public static void main(String[] args) {
+		int[] citations = new int[] {0, 1, 3, 3, 5};
+		LC274HIndex sol = new LC274HIndex();
+		int res = sol.hIndex(citations);
+		System.out.println(res);
 	}
 }
