@@ -14,10 +14,10 @@ public class LC187RepeatedDNASequences {
 		Set<Integer> one = new HashSet<>();
 		Set<Integer> two = new HashSet<>();
 		Map<Character, Integer> map = new HashMap<>();
-		map.put('A', 1);
-		map.put('C', 2);
-		map.put('G', 3);
-		map.put('T', 4);
+		map.put('A', 0);
+		map.put('C', 1);
+		map.put('G', 2);
+		map.put('T', 3);
 		int hashValue = 0;
 		for(int i = 0; i < s.length(); i++) {
 			char ch = s.charAt(i);
@@ -69,7 +69,7 @@ public class LC187RepeatedDNASequences {
 	public static void main(String[] args) {
 		String s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT";
 		LC187RepeatedDNASequences sol = new LC187RepeatedDNASequences();
-		List<String> res = sol.findRepeatedDnaSequencesII(s);
+		List<String> res = sol.findRepeatedDnaSequencesI(s);
 		System.out.println(res);
 	}
 

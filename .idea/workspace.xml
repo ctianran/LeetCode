@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bca7743-009f-414b-8532-dc6beb4f1b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC474OnesAndZeros.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/chentianran/LC245ShortestWordDistanceIII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LeetCode/com/chentianran/LC187RepeatedDNASequences.class" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/chentianran/LC187RepeatedDNASequences.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC187RepeatedDNASequences.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC187RepeatedDNASequences.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC244ShortestWordDistanceII.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC244ShortestWordDistanceII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chentianran/LC474OnesAndZeros.java" afterPath="$PROJECT_DIR$/src/com/chentianran/LC474OnesAndZeros.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,66 +23,15 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LC562LongestLineOfConsecutiveOneInMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC562LongestLineOfConsecutiveOneInMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC128LongestConsecutiveSequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC128LongestConsecutiveSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC84LargestRectangleInHistorgram.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC84LargestRectangleInHistorgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
-              <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC85MaximalRectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC85MaximalRectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1166">
-              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC139WordBreak.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC139WordBreak.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LC140WordBreakII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC140WordBreakII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#190#191#0" expanded="false" />
+                <element signature="e#208#209#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,8 +40,10 @@
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC354RussianDollEnvelopes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="484">
-              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-              <folding />
+              <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC152MaximumProductSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -113,11 +68,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC474OnesAndZeros.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC474OnesAndZeros.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC474OnesAndZeros.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC187RepeatedDNASequences.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC187RepeatedDNASequences.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1628">
+              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC438FindAllAnagramsInAString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC438FindAllAnagramsInAString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC246StrobogrammaticNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC246StrobogrammaticNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC244ShortestWordDistanceII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC244ShortestWordDistanceII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC245ShortestWordDistanceIII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC245ShortestWordDistanceIII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -143,9 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC582KillProcess.java" />
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC298BinaryTreeLongestConsecutiveSequence.java" />
-        <option value="$PROJECT_DIR$/src/com/chentianran/LC538ConvertBSTtoGreaterTree.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC501FindModeInBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC515FindLargestValueInEachTreeRow.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC513FindBottomLeftTreeValue.java" />
@@ -194,6 +198,9 @@
         <option value="$PROJECT_DIR$/src/com/chentianran/LC85MaximalRectangle.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC152MaximumProductSubArray.java" />
         <option value="$PROJECT_DIR$/src/com/chentianran/LC474OnesAndZeros.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC187RepeatedDNASequences.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC244ShortestWordDistanceII.java" />
+        <option value="$PROJECT_DIR$/src/com/chentianran/LC245ShortestWordDistanceIII.java" />
       </list>
     </option>
   </component>
@@ -204,10 +211,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2117" />
-    <option name="y" value="2" />
+    <option name="x" value="2265" />
+    <option name="y" value="12" />
     <option name="width" value="1575" />
-    <option name="height" value="1084" />
+    <option name="height" value="1034" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -227,9 +234,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -262,6 +268,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,29 +277,9 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="D:/Development/IdeaProjects/MyDataStructuresAlgorithms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdvancedDataStructuresAndAlgorithms" />
   </component>
-  <component name="RunManager" selected="Application.LC84LargestRectangleInHistorgram">
-    <configuration default="false" name="LC394DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.chentianran.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.chentianran.LC394DecodeString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.LC187RepeatedDNASequences">
     <configuration default="false" name="LC300LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -361,6 +348,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.chentianran.LC84LargestRectangleInHistorgram" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LC187RepeatedDNASequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.chentianran.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.chentianran.LC187RepeatedDNASequences" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -731,19 +738,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LC394DecodeString" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LC300LongestIncreasingSubsequence" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LC31NextPermutation" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LC274HIndex" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LC84LargestRectangleInHistorgram" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LC300LongestIncreasingSubsequence" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LC31NextPermutation" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LC274HIndex" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LC84LargestRectangleInHistorgram" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LC187RepeatedDNASequences" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LC84LargestRectangleInHistorgram" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LC274HIndex" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LC31NextPermutation" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LC300LongestIncreasingSubsequence" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LC394DecodeString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LC187RepeatedDNASequences" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LC84LargestRectangleInHistorgram" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LC274HIndex" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LC31NextPermutation" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LC300LongestIncreasingSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -791,15 +798,18 @@
       <workItem from="1499759181172" duration="1209000" />
       <workItem from="1499840327263" duration="2683000" />
       <workItem from="1500162097074" duration="10571000" />
-      <workItem from="1500223333622" duration="7400000" />
+      <workItem from="1500223333622" duration="10469000" />
+      <workItem from="1500516884024" duration="3377000" />
+      <workItem from="1500877318770" duration="161000" />
+      <workItem from="1501026498774" duration="3328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="381282000" />
+    <option name="totallyTimeSpent" value="391217000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2117" y="2" width="1575" height="1084" extended-state="0" />
+    <frame x="2265" y="12" width="1575" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -811,7 +821,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3090349" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30861506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -872,7 +882,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -881,41 +891,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC536ConstructBinaryTreeFromString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC114FlattenBinaryTreeToLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="59" column="30" lean-forward="false" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC323NumberOfConnectedComponentsInAnUndirectedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC368LargestDivisibleSubset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC542ZeroOneMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="871">
-          <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC329LongestIncreasingPathInAMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="871">
@@ -1196,7 +1171,7 @@
         <state relative-caret-position="1078">
           <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1205,7 +1180,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1166">
           <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,23 +1199,28 @@
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC140WordBreakII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#190#191#0" expanded="false" />
+            <element signature="e#208#209#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC354RussianDollEnvelopes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding />
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC152MaximumProductSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -1254,7 +1236,49 @@
     <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC474OnesAndZeros.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC187RepeatedDNASequences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC438FindAllAnagramsInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC246StrobogrammaticNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC244ShortestWordDistanceII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chentianran/LC245ShortestWordDistanceIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           <folding />
         </state>
       </provider>
