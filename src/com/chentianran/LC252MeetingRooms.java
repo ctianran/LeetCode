@@ -37,5 +37,7 @@ public class LC252MeetingRooms {
 																					 new Interval(15,20)};
 		LC252MeetingRooms sol = new LC252MeetingRooms();
 		System.out.println(sol.canAttendMeetings(intervals));
+		System.out.println(3);
+		System.out.println(~3);
 	}
 }
