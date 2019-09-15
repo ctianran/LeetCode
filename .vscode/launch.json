@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LC1TwoSum",
+            "request": "launch",
+            "mainClass": "com.chentianran.LC1TwoSum",
+            "projectName": "LeetCode_80c2a937"
+        }
+    ]
+}

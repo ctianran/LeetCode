@@ -37,6 +37,32 @@ public class LC14LongestCommonPrefix {
 		}
 		return strs[0];
 	}
+	//Method3
+	public String longestCommonPrefixII(String[] strs){
+		if(strs == null || strs.length == 0) {
+			return "";
+		}
+		return longestCommonHelper(strs, 0, strs.length - 1);
+	}
+
+	private String longestCommonHelper(String[] strs, int left, int right) {
+		if(left == right) {
+			return strs[left];
+		}
+		int mid = left + (right - left) / 2;
+		String ll = longestCommonHelper(strs, left, mid);
+		String rr = longestCommonHelper(strs, mid + 1, right);
+		return getCommon(ll, rr);
+	}
+
+	private String getCommon(String left, String right) {
+		int len = Math.min(left.length(), right.length());
+		int i = 0;
+		while(i < len && left.charAt(i) == right.charAt(i)) {
+			i++;
+		}
+		return left.substring(0, i);
+	}
 
 
 	public static void main(String[] args) {
@@ -49,5 +75,7 @@ public class LC14LongestCommonPrefix {
 		for(String s : strs) {
 			System.out.print(s + " ");
 		}
+		String s = "abc";
+		System.out.println(s.substring(0, 0));
 	}
 }
